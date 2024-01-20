@@ -1,10 +1,6 @@
 package org.bughunter;
 
 import org.bughunter.arrayCodingExercises_Leetcode.BestScore;
-import org.bughunter.arrayCodingExercises_Leetcode.DiagonalElements;
-import org.bughunter.arrayCodingExercises_Leetcode.MiddleArray;
-import org.bughunter.arrays.SingleDimensionArray;
-import org.bughunter.arrays.averageTemperature.AverageTemperature;
 
 import java.util.Arrays;
 
