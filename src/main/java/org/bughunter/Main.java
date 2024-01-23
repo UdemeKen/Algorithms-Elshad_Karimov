@@ -1,13 +1,13 @@
 package org.bughunter;
 
 import org.bughunter.arrayCodingExercises_Leetcode.BestScore;
+import org.bughunter.sumOfFirstNNumbers.SumOfNNumbers;
 
 import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        int[] myArray = {84, 85, 86, 87, 85, 90, 85, 83, 23, 45, 84, 1, 2, 0};
-        BestScore bestScore = new BestScore();
-        System.out.println(Arrays.toString(bestScore.calculateTopTwoScores(myArray)));
+        SumOfNNumbers sumOfNNumbers = new SumOfNNumbers();
+        System.out.println(Integer.toString(sumOfNNumbers.nSum(10)));
     }
 }
